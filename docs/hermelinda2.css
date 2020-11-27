@@ -48,7 +48,7 @@ margin-bottom: 10%;
 font-size: 4rem;
 background-color: transparent;
 border: none;
-
+outline: none;
 }
 
 .monContainer path  {
